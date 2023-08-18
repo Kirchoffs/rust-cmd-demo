@@ -1,12 +1,12 @@
 # Notes
 
-## During the dev
+## Dependencies
 ```
 >> cargo add clap -F derive
 >> cargo add --dev assert_cmd predicates
 ```
 
-## Run the command
+## Run
 ```
 >> cargo run -- --help
 >> cargo run -- Tom --omit-newline
